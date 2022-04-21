@@ -12,6 +12,9 @@
         <li>
           <nuxt-link to="/about">About</nuxt-link>
         </li>
+        <li>
+          <nuxt-link to="/chat">Chat</nuxt-link>
+        </li>
       </ul>
     </header>
   </div>
